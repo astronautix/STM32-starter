@@ -1,0 +1,5 @@
+adc_common_f47.c:45:6:adc_set_sample_time	24	static
+adc_common_f47.c:72:6:adc_set_sample_time_on_all_channels	24	static
+adc_common_f47.c:99:6:adc_set_multi_mode	16	static
+adc_common_f47.c:110:6:adc_enable_vbat_sensor	4	static
+adc_common_f47.c:119:6:adc_disable_vbat_sensor	4	static

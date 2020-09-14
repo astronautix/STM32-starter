@@ -1,0 +1,2 @@
+desig_common_v1.c:22:10:desig_get_flash_size	4	static
+desig_common_v1.c:27:6:desig_get_unique_id	16	static

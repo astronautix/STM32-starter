@@ -1,0 +1,5 @@
+iwdg_common_all.c:54:6:iwdg_start	4	static
+iwdg_common_all.c:73:6:iwdg_set_period_ms	32	static
+iwdg_common_all.c:120:6:iwdg_reload_busy	4	static
+iwdg_common_all.c:132:6:iwdg_prescaler_busy	4	static
+iwdg_common_all.c:144:6:iwdg_reset	4	static

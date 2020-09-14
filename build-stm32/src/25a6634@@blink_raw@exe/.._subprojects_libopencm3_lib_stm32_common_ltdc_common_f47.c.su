@@ -1,0 +1,2 @@
+ltdc_common_f47.c:41:6:ltdc_set_tft_sync_timings	24	static
+ltdc_common_f47.c:70:6:ltdc_setup_windowing	16	static

@@ -1,0 +1,2 @@
+crypto.c:39:6:crypto_set_mac_algorithm	16	static
+crypto.c:49:6:crypto_context_swap	32	static

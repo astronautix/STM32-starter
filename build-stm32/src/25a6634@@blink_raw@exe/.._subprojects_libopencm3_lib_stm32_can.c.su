@@ -1,0 +1,13 @@
+can.c:63:6:can_reset	16	static
+can.c:92:5:can_init	24	static
+can.c:199:6:can_filter_init	32	static
+can.c:259:6:can_filter_id_mask_16bit_init	40	static
+can.c:277:6:can_filter_id_mask_32bit_init	40	static
+can.c:294:6:can_filter_id_list_16bit_init	40	static
+can.c:313:6:can_filter_id_list_32bit_init	40	static
+can.c:326:6:can_enable_irq	16	static
+can.c:337:6:can_disable_irq	16	static
+can.c:354:5:can_transmit	40	static
+can.c:446:6:can_fifo_release	16	static
+can.c:470:6:can_receive	48	static
+can.c:547:6:can_available_mailbox	16	static

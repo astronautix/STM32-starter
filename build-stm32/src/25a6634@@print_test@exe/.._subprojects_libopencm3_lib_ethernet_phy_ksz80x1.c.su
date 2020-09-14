@@ -1,0 +1,3 @@
+phy_ksz80x1.c:49:17:phy_link_status	16	static
+phy_ksz80x1.c:62:6:phy_autoneg_force	24	static
+phy_ksz80x1.c:86:6:phy_autoneg_enable	16	static

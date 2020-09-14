@@ -1,0 +1,2 @@
+spi_common_v1_frf.c:42:6:spi_set_frf_ti	16	static
+spi_common_v1_frf.c:53:6:spi_set_frf_motorola	16	static

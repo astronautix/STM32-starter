@@ -1,0 +1,6 @@
+[options]
+backend = ninja
+
+[properties]
+cross_file = ['./cross-compile/stm32/stm32.cross']
+

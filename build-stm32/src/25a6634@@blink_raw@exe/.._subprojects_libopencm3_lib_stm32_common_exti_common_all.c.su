@@ -1,0 +1,6 @@
+exti_common_all.c:44:6:exti_set_trigger	16	static
+exti_common_all.c:62:6:exti_enable_request	16	static
+exti_common_all.c:71:6:exti_disable_request	16	static
+exti_common_all.c:84:6:exti_reset_request	16	static
+exti_common_all.c:97:10:exti_get_flag_status	16	static
+exti_common_all.c:112:6:exti_select_source	40	static

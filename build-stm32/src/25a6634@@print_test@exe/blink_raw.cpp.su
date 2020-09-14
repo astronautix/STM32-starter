@@ -1,0 +1,2 @@
+blink_raw.cpp:25:13:void gpio_setup()	8	static
+blink_raw.cpp:43:5:int main()	16	static

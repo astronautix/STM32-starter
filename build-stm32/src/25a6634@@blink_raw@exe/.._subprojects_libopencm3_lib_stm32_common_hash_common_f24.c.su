@@ -1,0 +1,9 @@
+hash_common_f24.c:45:6:hash_set_mode	16	static
+hash_common_f24.c:59:6:hash_set_algorithm	16	static
+hash_common_f24.c:73:6:hash_set_data_type	16	static
+hash_common_f24.c:87:6:hash_set_key_length	16	static
+hash_common_f24.c:101:6:hash_set_last_word_valid_bits	16	static
+hash_common_f24.c:114:6:hash_init	4	static
+hash_common_f24.c:127:6:hash_add_data	16	static
+hash_common_f24.c:139:6:hash_digest	4	static
+hash_common_f24.c:152:6:hash_get_result	16	static

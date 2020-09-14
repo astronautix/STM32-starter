@@ -1,0 +1,3 @@
+flash_common_f.c:28:6:flash_unlock	4	static
+flash_common_f.c:35:6:flash_lock	4	static
+flash_common_f.c:41:6:flash_clear_eop_flag	4	static

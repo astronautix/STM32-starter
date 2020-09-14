@@ -1,0 +1,4 @@
+flash_common_all.c:26:6:flash_prefetch_enable	4	static
+flash_common_all.c:31:6:flash_prefetch_disable	4	static
+flash_common_all.c:36:6:flash_set_ws	24	static
+flash_common_all.c:46:6:flash_unlock_option_bytes	4	static

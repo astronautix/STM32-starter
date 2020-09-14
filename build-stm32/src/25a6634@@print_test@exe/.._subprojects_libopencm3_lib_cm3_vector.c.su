@@ -1,0 +1,4 @@
+vector_chipset.c:23:13:pre_main	4	static
+vector.c:62:29:reset_handler	24	static
+vector.c:102:6:blocking_handler	4	static
+vector.c:107:6:null_handler	4	static

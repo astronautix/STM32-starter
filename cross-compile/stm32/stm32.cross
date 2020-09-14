@@ -1,0 +1,41 @@
+[binaries]
+c = 'arm-none-eabi-gcc'
+cpp = 'arm-none-eabi-g++'
+ar = 'arm-none-eabi-ar'
+strip = 'arm-none-eabi-strip'
+objcopy = 'arm-none-eabi-objcopy'
+size = 'arm-none-eabi-size'
+cmake = 'cmake'
+
+[properties]
+needs_exe_wrapper = true
+cross_folder = 'stm32'
+FP_FLAGS	= []
+c_args	= [
+          '-mfloat-abi=hard', '-mfpu=fpv4-sp-d16',
+		  '-fno-common', '-mcpu=cortex-m4', '-mthumb',
+		  '-ffunction-sections', '-fdata-sections', '-DSTM32F4',
+          '-mno-thumb-interwork', '-ffreestanding',
+          '-nostartfiles', '-fno-exceptions', '--specs=nano.specs',
+          '-fstack-usage'
+          ]
+
+cpp_args = [
+          '-mfloat-abi=hard', '-mfpu=fpv4-sp-d16',
+		  '-fno-common', '-mcpu=cortex-m4', '-mthumb',
+		  '-ffunction-sections', '-fdata-sections', '-DSTM32F4',
+          '-mno-thumb-interwork', '-ffreestanding',
+          '-nostartfiles', '-fno-exceptions', '--specs=nano.specs',
+          '-fstack-usage',
+          
+          '-fno-use-cxa-atexit'
+          ]
+
+
+
+
+[host_machine]
+system = 'bare-metal'
+cpu_family = 'arm'
+cpu = 'cortex-m4'
+endian = 'little'

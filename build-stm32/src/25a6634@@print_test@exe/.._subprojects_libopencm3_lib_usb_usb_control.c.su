@@ -1,0 +1,11 @@
+usb_control.c:47:13:stall_transaction	16	static
+usb_control.c:62:13:needs_zlp	16	static
+usb_control.c:73:5:usbd_register_control_callback	32	static
+usb_control.c:93:13:usb_control_send_chunk	16	static
+usb_control.c:121:12:usb_control_recv_chunk	24	static
+usb_control.c:142:1:usb_control_request_dispatch	48	static
+usb_control.c:173:13:usb_control_setup_read	16	static
+usb_control.c:198:13:usb_control_setup_write	16	static
+usb_control.c:222:6:_usbd_control_setup	24	static
+usb_control.c:240:6:_usbd_control_out	16	static
+usb_control.c:286:6:_usbd_control_in	24	static

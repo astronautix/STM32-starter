@@ -1,8 +1,0 @@
-crypto_common_f24.c:42:6:crypto_wait_busy	4	static
-crypto_common_f24.c:52:6:crypto_set_key	24	static
-crypto_common_f24.c:73:6:crypto_set_iv	24	static
-crypto_common_f24.c:89:6:crypto_set_datatype	16	static
-crypto_common_f24.c:100:6:crypto_set_algorithm	16	static
-crypto_common_f24.c:124:6:crypto_start	4	static
-crypto_common_f24.c:133:6:crypto_stop	4	static
-crypto_common_f24.c:152:10:crypto_process_block	32	static

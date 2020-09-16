@@ -1,6 +1,0 @@
-rtc_common_l1f024.c:37:6:rtc_set_prescaler	16	static
-rtc_common_l1f024.c:53:6:rtc_wait_for_synchro	4	static
-rtc_common_l1f024.c:71:6:rtc_unlock	4	static
-rtc_common_l1f024.c:81:6:rtc_lock	4	static
-rtc_common_l1f024.c:90:6:rtc_set_wakeup_time	16	static
-rtc_common_l1f024.c:120:6:rtc_clear_wakeup_flag	4	static

@@ -1,6 +1,0 @@
-rng_common_v1.c:35:6:rng_disable	4	static
-rng_common_v1.c:42:6:rng_enable	4	static
-rng_common_v1.c:49:6:rng_interrupt_enable	4	static
-rng_common_v1.c:56:6:rng_interrupt_disable	4	static
-rng_common_v1.c:68:6:rng_get_random	16	static
-rng_common_v1.c:95:10:rng_get_random_blocking	24	static

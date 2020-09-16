@@ -1,4 +1,0 @@
-rtc.c:42:6:rtc_enable_wakeup_timer	8	static
-rtc.c:53:6:rtc_disable_wakeup_timer	8	static
-rtc.c:64:6:rtc_enable_wakeup_timer_interrupt	8	static
-rtc.c:88:6:rtc_disable_wakeup_timer_interrupt	8	static

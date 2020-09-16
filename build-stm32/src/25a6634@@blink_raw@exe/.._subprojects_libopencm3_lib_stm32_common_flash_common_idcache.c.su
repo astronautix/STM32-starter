@@ -1,6 +1,0 @@
-flash_common_idcache.c:27:6:flash_dcache_enable	4	static
-flash_common_idcache.c:32:6:flash_dcache_disable	4	static
-flash_common_idcache.c:37:6:flash_icache_enable	4	static
-flash_common_idcache.c:42:6:flash_icache_disable	4	static
-flash_common_idcache.c:48:6:flash_dcache_reset	4	static
-flash_common_idcache.c:53:6:flash_icache_reset	4	static

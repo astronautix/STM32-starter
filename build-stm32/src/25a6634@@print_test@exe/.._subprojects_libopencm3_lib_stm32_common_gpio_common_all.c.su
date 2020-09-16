@@ -1,7 +1,0 @@
-gpio_common_all.c:41:6:gpio_set	16	static
-gpio_common_all.c:56:7:gpio_clear	16	static
-gpio_common_all.c:71:10:gpio_get	16	static
-gpio_common_all.c:87:6:gpio_toggle	24	static
-gpio_common_all.c:102:10:gpio_port_read	16	static
-gpio_common_all.c:115:6:gpio_port_write	16	static
-gpio_common_all.c:132:6:gpio_port_config_lock	24	static

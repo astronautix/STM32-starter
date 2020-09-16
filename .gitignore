@@ -33,3 +33,5 @@
 
 subprojects/*
 !subprojects/*.wrap
+
+./build*/

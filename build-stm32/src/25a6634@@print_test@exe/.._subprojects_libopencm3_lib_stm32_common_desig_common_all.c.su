@@ -1,2 +1,0 @@
-desig_common_all.c:22:6:desig_get_unique_id_as_string	72	static
-desig_common_all.c:43:6:desig_get_unique_id_as_dfu	80	static

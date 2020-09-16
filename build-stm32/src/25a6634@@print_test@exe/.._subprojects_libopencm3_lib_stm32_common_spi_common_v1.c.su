@@ -1,3 +1,0 @@
-spi_common_v1.c:83:5:spi_init_master	32	static
-spi_common_v1.c:111:6:spi_set_dff_8bit	16	static
-spi_common_v1.c:122:6:spi_set_dff_16bit	16	static

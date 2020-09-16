@@ -1,5 +1,0 @@
-usart_common_f124.c:45:6:usart_send	16	static
-usart_common_f124.c:62:10:usart_recv	16	static
-usart_common_f124.c:78:6:usart_wait_send_ready	16	static
-usart_common_f124.c:93:6:usart_wait_recv_ready	16	static
-usart_common_f124.c:108:6:usart_get_flag	16	static

@@ -1,9 +1,0 @@
-nvic.c:57:6:nvic_enable_irq	16	static
-nvic.c:70:6:nvic_disable_irq	16	static
-nvic.c:84:9:nvic_get_pending_irq	16	static
-nvic.c:98:6:nvic_set_pending_irq	16	static
-nvic.c:112:6:nvic_clear_pending_irq	16	static
-nvic.c:126:9:nvic_get_irq_enabled	16	static
-nvic.c:152:6:nvic_set_priority	16	static
-nvic.c:194:9:nvic_get_active_irq	16	static
-nvic.c:209:6:nvic_generate_software_interrupt	16	static

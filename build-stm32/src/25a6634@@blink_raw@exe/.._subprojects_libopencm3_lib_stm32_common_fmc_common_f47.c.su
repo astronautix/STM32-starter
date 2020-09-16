@@ -1,2 +1,0 @@
-fmc_common_f47.c:43:1:sdram_timing	24	static
-fmc_common_f47.c:63:1:sdram_command	32	static

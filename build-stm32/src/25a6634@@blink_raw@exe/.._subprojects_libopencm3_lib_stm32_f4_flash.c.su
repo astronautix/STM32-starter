@@ -1,3 +1,0 @@
-flash.c:52:6:flash_wait_for_last_operation	4	static
-flash.c:63:6:flash_clear_pgserr_flag	4	static
-flash.c:73:6:flash_clear_status_flags	8	static
